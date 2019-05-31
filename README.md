@@ -1,0 +1,1 @@
+Color app. Create palette or copy a color
